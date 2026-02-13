@@ -1,6 +1,6 @@
 {
   "name": "arkor",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "The Best TypeScript framework for fine-tuning",
   "main": "src/index.ts",
   "scripts": {
